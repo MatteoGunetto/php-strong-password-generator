@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+}
+.container{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    background-color: teal;
+    margin-top: 200px;
+    padding: 70px;
+    border-radius: 50px;
+}
+h1{
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+#password{
+    margin: 20px 0;
+}
+p{
+    font-size: 20px;
+    background-color: white;
+    color: red;
+    margin: 20px 0;
+}
